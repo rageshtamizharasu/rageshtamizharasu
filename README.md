@@ -68,4 +68,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="30" alt="nginx logo"  />
 </div>
 
+My Top 5 Extensions:-
+1) Tabnine (Ai auto complete)
+2) Material Icons (Unique Folder & File icons)
+3) Prettier (Code formatter)
+4) Path intellisence (Auto complete file paths)
+5) Live Server (Runs your code in localhost)
 ###
